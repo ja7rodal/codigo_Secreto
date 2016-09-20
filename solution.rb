@@ -1,7 +1,7 @@
 require "sinatra"
 
 get '/' do
-  erb:index
+  "HcUy6Re2LLBRtj"
 end
 
 get '/secret' do
